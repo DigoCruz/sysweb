@@ -1,0 +1,40 @@
+/*
+
+	Dicas 
+
+	Estruturar o HTML para adicionar apenas conteúdo
+	Não focar no estilo quando for estruturar o código
+	Escrever um código limpo e eficioente
+	Um código bem estruturado é muito mais fácil de estilizar
+	Use identação
+
+	Regra CSS	
+	selector { Declaração com propriedades e valores }
+
+	pode haver um ou mais seletores
+
+*/
+
+
+p, li,a {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#f00;
+}
+
+
+/* 
+	Nomenclatura dos IDs e Classes 
+
+	Ao declarar o nome de um ID, digite # antes do nome, exemplo:
+	#principal ou #central
+
+	Ao declarar uma classe use sempre um . exemplo:
+	.destaque ou . meuitem
+
+	Não usar characteres especiais
+*/
+
+
+
+
+
